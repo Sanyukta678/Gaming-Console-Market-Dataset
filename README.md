@@ -31,7 +31,7 @@ This dataset is built to:
 
 • Press Release: Gaming Console Market Trends and Forecasts →
 
-• Data Provenance: Metadata available in JSON-LD / Schema.org format on the report page
+• Data Provenance: Metadata available in JSON-LD / Schema.org format on the report page.
 ________________________________________
 Contact
 For questions, licensing, or custom datasets:
